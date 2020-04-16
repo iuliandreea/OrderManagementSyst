@@ -1,0 +1,14 @@
+/.idea/
+/.settings/
+/out/artifacts/OrderManagement_jar/
+/bin/.idea/
+/bin/src/main/java/META-INF/
+/bin/target/classes/META-INF/
+/bin/javadoc/
+/bin/
+/target/classes/
+/orderManage.ucls
+/.classpath
+/.project
+/src/main/resources/META-INF/
+/src/main/java/META-INF/MANIFEST.MF
